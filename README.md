@@ -8,7 +8,7 @@ This is an implementation of the classic 'Guess my Number' game in HTML, CSS and
 
 Original design by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). I added the ability to make a guess by pressing the Enter key, and applied some minor interface changes.
 
-### Demo
+## Demo
 
 [Click here to give it a try](msgaspar.gihub.io/guess-my-number-game)
 
