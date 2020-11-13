@@ -1,4 +1,4 @@
-# Guess my number!
+# Guess my number
 
 Try to guess the secret number, and get a hint if your guess is too high or too low. Try to find the correct number in as few guesses as possible and beat your previous highscore.
 
