@@ -10,6 +10,6 @@ Original design by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). I a
 
 ## Demo
 
-[Click here to give it a try](msgaspar.gihub.io/guess-my-number-game)
+[Click here to give it a try](https://msgaspar.gihub.io/guess-my-number-game)
 
 ![Guess my name demo](demo.gif)
